@@ -1,7 +1,5 @@
 # Medium Clone
 
-[![License](https://img.shields.io/badge/license-UNLICENSED-red.svg)](LICENSE)
-
 ## Description
 
 This project is a clone of the Medium platform, built using NestJS and TypeORM.
